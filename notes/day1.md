@@ -1,4 +1,8 @@
-###D1踩坑记录：root上传事件（10/12晚）
+##day1学习记录
+-Linux常用命令10条手敲+看帮助，熟悉熟悉以前学过的命令，发现head跟tail其实是单独的命令，在和cat等查看文档方面命令是需要使用“|”隔开。
+-GitHub构建仓库qa-practice，成功踩坑后才正常上传。
+-仓库里放置README.md与notes目录，通过撰写学习记录，记录自己的学习情况。
+##D1踩坑记录：root上传事件（10/12晚）
 agent实际检查：
 -仓库建立在root家目录（/root/qa-practice），属主为root；没有配置任何GitHub远端->因此每天上传成功。
 -GitHub（hoshinoick811）下没有qa-practice仓。
